@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>1.0.0</Version>
+    <Authors>zorrowm</Authors>
+    <Description>Mongodb数据库访问，内部积累公开使用</Description>
+    <RepositoryUrl>https://github.com/zorrowm/xframedb</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

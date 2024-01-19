@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>zorrowm</Authors>
+    <Description>数据库访问工具类</Description>
+    <RepositoryUrl>https://github.com/zorrowm/xframedb</RepositoryUrl>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
